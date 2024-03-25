@@ -1,6 +1,6 @@
 # :star2: About Me:
 
-:hand: Nice to meet you! I'm Otto<br> :desktop_computer: Passionate Junior Software Enginner and interested with anything that revolves around computers<br> :robot: From DBMS, networking and software especially software.<br> :man_technologist: Student in Computer Science at the University of CEUTEC (Centro Universitario Tecnologico)<br>
+:hand: Nice to meet you! I'm Otto<br> :desktop_computer: Passionate Junior Software Engineer and interested with anything that revolves around computers<br> :robot: From DBMS, networking and software especially software.<br> :man_technologist: Student in Computer Science at the University of CEUTEC (Centro Universitario Tecnologico)<br>
 
 :thought_balloon: Currently learning about the B+ tree data structure and its uses in Databases Systems<br>
 
